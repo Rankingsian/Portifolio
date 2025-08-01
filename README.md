@@ -7,7 +7,7 @@ This project is a reflection of my journey as a Computer Science student at Mt. 
 
 ## 🚀 Live Demo
 
-> Coming Soon – Stay tuned for the hosted version!
+https://jocular-cranachan-82c04b.netlify.app/
 
 ---
 
